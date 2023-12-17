@@ -1,7 +1,8 @@
 ## Postup instalace aplikace
 
 ## Použité Knihovny a jejich Licence
-
+- na https://github.com/RomanMachala/ITU se nachází instalační soubor pro android zařízení
+- tento soubor stačí stáhnout do Vašeho zařízení a poté spustit instalaci
 - **@react-navigation/native**
   - **Účel**: Poskytuje navigační funkce pro React Native aplikace.
   - **Licence**: MIT
