@@ -1,8 +1,13 @@
+## Authors
+- [Roman Machala](https://github.com/RomanMachala), xmacha86
+## Slovo úvodem
+- na základě zpětné vazby pitch prezentace jsme se jako tým dohodli na tvorbě 2 verzí aplikace
+- z tohoto důvodu je tato verze pouze mým dílem
 ## Postup instalace aplikace
-
-## Použité Knihovny a jejich Licence
 - na https://github.com/RomanMachala/ITU se nachází instalační soubor pro android zařízení
 - tento soubor stačí stáhnout do Vašeho zařízení a poté spustit instalaci
+## Použité Knihovny a jejich Licence
+
 - **@react-navigation/native**
   - **Účel**: Poskytuje navigační funkce pro React Native aplikace.
   - **Licence**: MIT
