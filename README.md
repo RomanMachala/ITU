@@ -38,4 +38,10 @@
 
 - ***Testování: 6b/6b***
   Aplikácia vo forme makiet bola testovaná ako celok a nie po jednotlivých častiach odpovedajúcim práci jednotlivých členov    teamu, pričom každý člen teamu evaluoval kroky vrámci jeho podčasti. Testovanie je na dobrej úrovni, s jasne definovaným     počtom respondentov a ich charakteristikou. Vyhodnotenie bolo vykonané na rozumných testovacích metrikách, sú prezentované   súhrnné výsledky i konrétne návrhy na zlepšenie aplikácie študentov.
+ ### Implementace aplikace ***29b/33b***
+   Zpráva přidělena k hodnocení:
+- ***Implementace: 29b/33b***
+  Implementace správy ToDo pomocí technologie React. Implementace technicky správná, rozsahem standardní. Implementace         samostatná od zbytku týmu. GUI stručné, ale jasné a efektivní.
+  Student implementoval vlastní mobilní aplikaci pro ToDo list a kalendář. Rozsah implementace je standardní. Kód není         příliš členěný - vše je prakticky ve dvou souborech, které odpovídají dvěma obrazovkám. V těchto souborech jsou dohromady    jak View tak i Controller. Kaskádové styly by také měly být odděleny od definice prvků na stránce.
+
  
