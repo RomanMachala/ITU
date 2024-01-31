@@ -28,9 +28,10 @@
   - **Účel**: Asynchronní, trvalé, klíč-hodnota úložiště systému pro React Native.
   - **Licence**: MIT
 ## Hodnocení projektu 
+
  ### Návrh aplikace ***22b/22b***
  Zpráva přidělena k hodnocení:
-- Technická zpráva: 6b/6b
+- ***Technická zpráva: 6b/6b***
   Technická správa má veľmi kvalitnú prezentačnú úroveň, je v rozumnom rozsahu a je kvalitná ako po gramatickej tak po         typografickej stránke. Obrázky majú dobrú kvalitu, výstižné popisky a sú i referované v texte. Práca na návrhu aplikácie     je podporená informatívnymi diagramami.
 
 - ***Návrh uživatelského rozhraní a architektury aplikace: 10b/10b***
